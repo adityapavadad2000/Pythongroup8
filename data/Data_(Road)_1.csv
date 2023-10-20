@@ -1,0 +1,661 @@
+﻿Year,Amount,Type of good
+2008,"6,21,287",Total transported goods
+,,Total transported goods
+2009,"6,16,903",Total transported goods
+,,Total transported goods
+2010,"6,57,874",Total transported goods
+,,Total transported goods
+2011,"6,58,032",Total transported goods
+,,Total transported goods
+2012,"6,31,898",Total transported goods
+,,Total transported goods
+2013,"6,42,236",Total transported goods
+,,Total transported goods
+2014,"6,40,018",Total transported goods
+,,Total transported goods
+2015,"6,41,875",Total transported goods
+,,Total transported goods
+2016,"6,56,562",Total transported goods
+,,Total transported goods
+2017,"6,66,166",Total transported goods
+,,Total transported goods
+2018,"6,80,186",Total transported goods
+,,Total transported goods
+2019,"6,88,995",Total transported goods
+,,Total transported goods
+2020,"6,84,492",Total transported goods
+,,Total transported goods
+2021,"7,02,161",Total transported goods
+,,Total transported goods
+2022,"6,95,112",Total transported goods
+,,Total transported goods
+2008,"53,262","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2009,"61,042","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2010,"60,681","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2011,"60,575","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2012,"60,537","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2013,"59,765","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2014,"62,045","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2015,"57,714","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2016,"61,416","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2017,"57,400","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2018,"60,918","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2019,"61,832","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2020,"66,636","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2021,"69,045","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2022,"59,789","Products of agriculture, hunting, and forestry; fish and other fishing products"
+,,"Products of agriculture, hunting, and forestry; fish and other fishing products"
+2008,238,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2009,253,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2010,319,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2011,187,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2012,199,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2013,311,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2014,149,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2015,293,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2016,661,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2017,72,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2018,308,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2019,416,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2020,518,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2021,198,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2022,506,Coal and lignite; crude petroleum and natural gas
+,,Coal and lignite; crude petroleum and natural gas
+2008,"1,08,030",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2009,"1,11,394",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2010,"89,415",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2011,"93,053",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2012,"93,022",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2013,"84,759",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2014,"91,680",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2015,"90,379",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2016,"93,043",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2017,"92,264",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2018,"97,373",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2019,"93,583",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2020,"1,00,138",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2021,"99,622",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2022,"92,578",Metal ores and other mining and quarrying products; peat; uranium and thorium
+,,Metal ores and other mining and quarrying products; peat; uranium and thorium
+2008,"92,962","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2009,"94,167","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2010,"1,17,372","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2011,"1,21,654","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2012,"1,22,375","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2013,"1,13,171","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2014,"1,15,360","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2015,"1,24,106","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2016,"1,26,420","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2017,"1,28,539","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2018,"1,24,811","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2019,"1,30,810","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2020,"1,29,793","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2021,"1,34,873","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2022,"1,42,762","Food products, beverages and tobacco"
+,,"Food products, beverages and tobacco"
+2008,"3,961",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2009,"3,829",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2010,"5,445",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2011,"5,147",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2012,"4,582",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2013,"4,797",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2014,"4,415",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2015,"4,158",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2016,"4,181",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2017,"3,789",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2018,"3,690",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2019,"5,160",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2020,"3,993",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2021,"3,931",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2022,"3,852",Textiles and textile products; leather and leather products
+,,Textiles and textile products; leather and leather products
+2008,"28,218",Wood and products
+,,Wood and products
+2009,"24,190",Wood and products
+,,Wood and products
+2010,"27,316",Wood and products
+,,Wood and products
+2011,"26,879",Wood and products
+,,Wood and products
+2012,"24,747",Wood and products
+,,Wood and products
+2013,"25,536",Wood and products
+,,Wood and products
+2014,"26,635",Wood and products
+,,Wood and products
+2015,"26,720",Wood and products
+,,Wood and products
+2016,"24,371",Wood and products
+,,Wood and products
+2017,"24,285",Wood and products
+,,Wood and products
+2018,"23,962",Wood and products
+,,Wood and products
+2019,"24,373",Wood and products
+,,Wood and products
+2020,"24,775",Wood and products
+,,Wood and products
+2021,"27,893",Wood and products
+,,Wood and products
+2022,"23,152",Wood and products
+,,Wood and products
+2008,"7,825",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2009,"10,258",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2010,"20,957",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2011,"15,712",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2012,"13,533",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2013,"12,451",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2014,"10,964",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2015,"9,195",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2016,"9,384",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2017,"10,022",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2018,"9,950",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2019,"9,841",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2020,"9,401",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2021,"8,884",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2022,"8,720",Coke and refined petroleum products
+,,Coke and refined petroleum products
+2008,"48,535","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2009,"54,903","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2010,"59,271","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2011,"61,258","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2012,"65,568","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2013,"59,472","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2014,"57,261","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2015,"60,920","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2016,"61,292","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2017,"66,774","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2018,"65,743","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2019,"64,506","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2020,"64,878","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2021,"61,769","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2022,"62,305","Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+,,"Chemicals, chemical products, and man-made fibers; rubber and plastic products ; nuclear fuel"
+2008,"96,883",Other non metallic mineral products
+,,Other non metallic mineral products
+2009,"94,773",Other non metallic mineral products
+,,Other non metallic mineral products
+2010,"70,153",Other non metallic mineral products
+,,Other non metallic mineral products
+2011,"72,395",Other non metallic mineral products
+,,Other non metallic mineral products
+2012,"54,654",Other non metallic mineral products
+,,Other non metallic mineral products
+2013,"66,010",Other non metallic mineral products
+,,Other non metallic mineral products
+2014,"60,728",Other non metallic mineral products
+,,Other non metallic mineral products
+2015,"60,686",Other non metallic mineral products
+,,Other non metallic mineral products
+2016,"62,077",Other non metallic mineral products
+,,Other non metallic mineral products
+2017,"68,852",Other non metallic mineral products
+,,Other non metallic mineral products
+2018,"70,898",Other non metallic mineral products
+,,Other non metallic mineral products
+2019,"75,480",Other non metallic mineral products
+,,Other non metallic mineral products
+2020,"69,203",Other non metallic mineral products
+,,Other non metallic mineral products
+2021,"68,295",Other non metallic mineral products
+,,Other non metallic mineral products
+2022,"75,980",Other non metallic mineral products
+,,Other non metallic mineral products
+2008,"30,167","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2009,"25,759","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2010,"28,521","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2011,"30,068","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2012,"26,983","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2013,"26,950","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2014,"27,542","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2015,"24,904","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2016,"25,097","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2017,"24,397","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2018,"26,202","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2019,"22,845","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2020,"21,734","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2021,"24,612","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2022,"21,995","Basic metals; fabricated metal products, except machinery and equipment"
+,,"Basic metals; fabricated metal products, except machinery and equipment"
+2008,"20,464",Machinery and equipment
+,,Machinery and equipment
+2009,"18,687",Machinery and equipment
+,,Machinery and equipment
+2010,"23,491",Machinery and equipment
+,,Machinery and equipment
+2011,"24,408",Machinery and equipment
+,,Machinery and equipment
+2012,"23,494",Machinery and equipment
+,,Machinery and equipment
+2013,"26,373",Machinery and equipment
+,,Machinery and equipment
+2014,"23,998",Machinery and equipment
+,,Machinery and equipment
+2015,"24,934",Machinery and equipment
+,,Machinery and equipment
+2016,"26,231",Machinery and equipment
+,,Machinery and equipment
+2017,"26,918",Machinery and equipment
+,,Machinery and equipment
+2018,"25,652",Machinery and equipment
+,,Machinery and equipment
+2019,"28,421",Machinery and equipment
+,,Machinery and equipment
+2020,"26,461",Machinery and equipment
+,,Machinery and equipment
+2021,"29,775",Machinery and equipment
+,,Machinery and equipment
+2022,"28,971",Machinery and equipment
+,,Machinery and equipment
+2008,"15,474",Transport equipment
+,,Transport equipment
+2009,"11,620",Transport equipment
+,,Transport equipment
+2010,"9,920",Transport equipment
+,,Transport equipment
+2011,"10,506",Transport equipment
+,,Transport equipment
+2012,"8,800",Transport equipment
+,,Transport equipment
+2013,"9,434",Transport equipment
+,,Transport equipment
+2014,"8,554",Transport equipment
+,,Transport equipment
+2015,"8,514",Transport equipment
+,,Transport equipment
+2016,"9,983",Transport equipment
+,,Transport equipment
+2017,"8,600",Transport equipment
+,,Transport equipment
+2018,"9,269",Transport equipment
+,,Transport equipment
+2019,"8,088",Transport equipment
+,,Transport equipment
+2020,"7,727",Transport equipment
+,,Transport equipment
+2021,"9,078",Transport equipment
+,,Transport equipment
+2022,"6,653",Transport equipment
+,,Transport equipment
+2008,"2,493",Furniture
+,,Furniture
+2009,"2,269",Furniture
+,,Furniture
+2010,"3,116",Furniture
+,,Furniture
+2011,"3,275",Furniture
+,,Furniture
+2012,"3,304",Furniture
+,,Furniture
+2013,"2,304",Furniture
+,,Furniture
+2014,"2,433",Furniture
+,,Furniture
+2015,"3,336",Furniture
+,,Furniture
+2016,"3,772",Furniture
+,,Furniture
+2017,"2,443",Furniture
+,,Furniture
+2018,"3,205",Furniture
+,,Furniture
+2019,"3,565",Furniture
+,,Furniture
+2020,"2,900",Furniture
+,,Furniture
+2021,"3,073",Furniture
+,,Furniture
+2022,"2,885",Furniture
+,,Furniture
+2008,"23,517",Secondary raw materials
+,,Secondary raw materials
+2009,"23,466",Secondary raw materials
+,,Secondary raw materials
+2010,"47,804",Secondary raw materials
+,,Secondary raw materials
+2011,"40,591",Secondary raw materials
+,,Secondary raw materials
+2012,"39,706",Secondary raw materials
+,,Secondary raw materials
+2013,"46,647",Secondary raw materials
+,,Secondary raw materials
+2014,"44,204",Secondary raw materials
+,,Secondary raw materials
+2015,"43,941",Secondary raw materials
+,,Secondary raw materials
+2016,"44,352",Secondary raw materials
+,,Secondary raw materials
+2017,"42,317",Secondary raw materials
+,,Secondary raw materials
+2018,"40,059",Secondary raw materials
+,,Secondary raw materials
+2019,"40,452",Secondary raw materials
+,,Secondary raw materials
+2020,"34,827",Secondary raw materials
+,,Secondary raw materials
+2021,"38,055",Secondary raw materials
+,,Secondary raw materials
+2022,"32,236",Secondary raw materials
+,,Secondary raw materials
+2008,0,"Mail, parcels"
+,,"Mail, parcels"
+2009,0,"Mail, parcels"
+,,"Mail, parcels"
+2010,792,"Mail, parcels"
+,,"Mail, parcels"
+2011,"1,022","Mail, parcels"
+,,"Mail, parcels"
+2012,"8,589","Mail, parcels"
+,,"Mail, parcels"
+2013,"2,224","Mail, parcels"
+,,"Mail, parcels"
+2014,"2,996","Mail, parcels"
+,,"Mail, parcels"
+2015,"3,174","Mail, parcels"
+,,"Mail, parcels"
+2016,"3,320","Mail, parcels"
+,,"Mail, parcels"
+2017,"2,950","Mail, parcels"
+,,"Mail, parcels"
+2018,"3,902","Mail, parcels"
+,,"Mail, parcels"
+2019,"3,959","Mail, parcels"
+,,"Mail, parcels"
+2020,"4,643","Mail, parcels"
+,,"Mail, parcels"
+2021,"6,044","Mail, parcels"
+,,"Mail, parcels"
+2022,"6,513","Mail, parcels"
+,,"Mail, parcels"
+2008,"18,513",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2009,"16,433",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2010,"17,451",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2011,"18,414",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2012,"18,130",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2013,"31,469",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2014,"34,943",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2015,"35,350",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2016,"38,330",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2017,"39,235",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2018,"35,859",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2019,"37,901",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2020,"39,561",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2021,"42,903",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2022,"43,777",Equipment and material utilized in the transport of goods
+,,Equipment and material utilized in the transport of goods
+2008,"9,816",Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2009,"10,436",Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2010,547,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2011,434,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2012,400,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2013,485,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2014,463,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2015,680,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2016,527,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2017,560,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2018,571,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2019,755,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2020,531,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2021,593,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2022,443,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+,,Goods moved in the course of household and office removals; baggage and articles accompanying travellers; motor vehicles being moved for repair; other non market goods n.e.c.
+2008,"51,823",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2009,"46,191",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2010,"57,374",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2011,"50,344",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2012,"50,001",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2013,"51,566",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2014,"53,705",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2015,"46,621",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2016,"48,399",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2017,"55,520",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2018,"66,832",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2019,"65,168",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2020,"64,955",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2021,"66,635",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2022,"70,643",Grouped goods0 a mixture of types of goods which are transported together
+,,Grouped goods: a mixture of types of goods which are transported together
+2008,985,Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2009,863,Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2010,"17,930",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2011,"22,110",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2012,"13,275",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2013,"18,507",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2014,"11,938",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2015,"16,231",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2016,"13,705",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2017,"11,230",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2018,"10,980",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2019,"11,842",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2020,"11,816",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2021,"6,883",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2022,"11,350",Unidentifiable goods0 goods which for any reason cannot be identified
+,,Unidentifiable goods: goods which for any reason cannot be identified
+2008,"8,123",Other goods n.e.c.
+,,Other goods n.e.c.
+2009,"6,372",Other goods n.e.c.
+,,Other goods n.e.c.
+2010,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2011,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2012,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2013,5,Other goods n.e.c.
+,,Other goods n.e.c.
+2014,4,Other goods n.e.c.
+,,Other goods n.e.c.
+2015,16,Other goods n.e.c.
+,,Other goods n.e.c.
+2016,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2017,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2018,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2019,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2020,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2021,0,Other goods n.e.c.
+,,Other goods n.e.c.
+2022,0,Other goods n.e.c.
+,,Other goods n.e.c.
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
+,,
+,,Total transported goods
